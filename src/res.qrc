@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/images"/>
+    <qresource prefix="/image"/>
+    <qresource prefix="/Image">
+        <file>login.jpg</file>
+        <file>reg.jpg</file>
+        <file>timg.jpg</file>
+        <file>single.jpg</file>
+        <file>double.jpg</file>
+        <file>Deluxe.jpg</file>
+        <file>singleroom.jpg</file>
+        <file>doubleroom.jpg</file>
+        <file>many.jpg</file>
+    </qresource>
+</RCC>
